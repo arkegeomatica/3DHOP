@@ -23,8 +23,9 @@ Marco Potenziani     @ marco.potenziani@isti.cnr.it
 
 - **documentation folder** -> the 3DHOP basic documentation
   - *img*           -> folder with the 3DHOP basic documentation graphic elements files  
-  - *docs.html*     -> 3DHOP basic documentation HTML file  
-
+  - *docs.html*     -> 3DHOP basic documentation HTML file 
+  
+      https://arkegeomatica.github.io/3DHOP/documentation/docs.html
 
 - **minimal folder** -> the 3DHOP minimal version, a ready-to-use viewer in a self-contained folder
   - *js*            -> folder with the 3DHOP source JavaScript files
@@ -40,6 +41,10 @@ Marco Potenziani     @ marco.potenziani@isti.cnr.it
   - *skins*         -> folder with the toolbar and background graphic elements files
   - *stylesheet*    -> folder with the 3DHOP CSS file
   - *HOWTO_ ... .html* -> 3DHOP HOW-TOs HTML files
+  
+  Carga de Modelos
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_2.0_models_loading.html
 
 
 - **text files** -> basic info texts

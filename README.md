@@ -23,8 +23,9 @@ Marco Potenziani     @ marco.potenziani@isti.cnr.it
 
 - **documentation folder** -> the 3DHOP basic documentation
   - *img*           -> folder with the 3DHOP basic documentation graphic elements files  
-  - *docs.html*     -> 3DHOP basic documentation HTML file  
-
+  - *docs.html*     -> 3DHOP basic documentation HTML file 
+  
+      https://arkegeomatica.github.io/3DHOP/documentation/docs.html
 
 - **minimal folder** -> the 3DHOP minimal version, a ready-to-use viewer in a self-contained folder
   - *js*            -> folder with the 3DHOP source JavaScript files
@@ -40,6 +41,46 @@ Marco Potenziani     @ marco.potenziani@isti.cnr.it
   - *skins*         -> folder with the toolbar and background graphic elements files
   - *stylesheet*    -> folder with the 3DHOP CSS file
   - *HOWTO_ ... .html* -> 3DHOP HOW-TOs HTML files
+  
+  
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_0.0_html_environment.html
+  
+  Canvas
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_1.0_canvas_personalization.html
+  
+  Carga de Modelos
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_2.0_models_loading.html
+  
+  Escena compleja
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_4.0_complex_scene.html
+  
+  Medidas
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_3.0_trackball_setting.html
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_3.1_trackball_setting.html
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_3.2_trackball_setting.html
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_3.3_trackball_setting.html
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_4.0_complex_scene.html
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_5.0_visibility_color_transparency.html
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_6.0_animations.html
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_7.0_hotspots_events.html
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_8.0_measurement_tool.html
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_8.1_point_picking.html
+  
+  https://arkegeomatica.github.io/3DHOP/examples/HOWTO_9.0_planes_sections.html
 
 
 - **text files** -> basic info texts
